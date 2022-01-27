@@ -1,2 +1,2 @@
 # Return-home
-a platformer for ICT assignment
+a platformer game for ICT assignment
